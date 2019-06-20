@@ -1,0 +1,53 @@
+#home{
+    padding:80px;
+    z-index: 5;
+}
+
+#centraliza{
+    text-align: center;
+    border-bottom:2px solid black;
+}
+
+#minhaFoto{
+    width:400px;
+    height: 400px;
+    border-radius: 360%;
+    border: 6px solid black;
+}
+@media (min-width:760px) and (max-width:900px){
+    #minhaFoto{
+        width:300px;
+        height: 300px;
+    }
+}
+@media (min-width:400px) and (max-width:759px){
+    #minhaFoto{
+        width:200px;
+        height: 200px;
+    }
+}
+
+#curriculo{
+    border: 2px solid black;
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+    color:black;
+}
+
+#curriculo:hover{
+    background: black;
+    color:white;
+}
+
+.marginTop{
+    margin-top:20px;
+}
+
+.column h2{
+    font-size: 21px;
+}
+
+#padin1{
+    padding-left:10%;
+    padding-right: 10%;
+}

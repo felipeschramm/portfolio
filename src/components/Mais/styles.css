@@ -1,0 +1,16 @@
+#mais{
+    width: 100%;
+    text-align: center;
+    padding-top:40px;
+    padding-bottom: 40px;
+}
+
+.margem{
+    text-align: center;
+    padding:20px;
+}
+
+#mais h2{
+    border-bottom:2px solid black;
+    margin-bottom:80px;
+}

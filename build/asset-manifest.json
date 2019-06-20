@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61699ca2.chunk.css",
+    "main.js": "/static/js/main.f108e7fc.chunk.js",
+    "main.js.map": "/static/js/main.f108e7fc.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.5147ceb2.chunk.js": "/static/js/2.5147ceb2.chunk.js",
+    "static/js/2.5147ceb2.chunk.js.map": "/static/js/2.5147ceb2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.db160223eda26269138101a67bf52a5e.js": "/precache-manifest.db160223eda26269138101a67bf52a5e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.61699ca2.chunk.css.map": "/static/css/main.61699ca2.chunk.css.map",
+    "static/media/1.png": "/static/media/1.764661fa.png",
+    "static/media/2.png": "/static/media/2.1a6b6278.png",
+    "static/media/2.webp": "/static/media/2.50c40d84.webp",
+    "static/media/3.jpg": "/static/media/3.28155b3a.jpg",
+    "static/media/curriculo.pdf": "/static/media/curriculo.d7cc14a7.pdf",
+    "static/media/g.jpg": "/static/media/g.8f1a518f.jpg",
+    "static/media/mountain3.png": "/static/media/mountain3.d8102b23.png"
+  }
+}

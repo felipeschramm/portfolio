@@ -1,0 +1,29 @@
+#skills{
+    width:100%;
+    background: black;
+    text-align: center;
+    padding-top:60px;
+    padding-bottom: 60px;
+}
+
+#skills h2{
+    color:white;
+    font-size: 28px;
+}
+
+.itensSkill ul{
+    list-style: none;
+}
+
+.itensSkill ul li{
+    border: 3px solid white;
+    color: white; 
+    margin-bottom: 15px;  
+    padding: 5px 10px 5px 10px;
+    font-size: 20px; 
+    margin-right: 20px;
+}
+
+h2{
+    margin-bottom: 30px;
+}

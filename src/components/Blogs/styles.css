@@ -1,0 +1,38 @@
+#blogs{
+    width:100%;
+    background: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.fotoBlog{
+    width: 250px;
+    height: 160px;
+    margin-bottom: 30px;
+    border: 10px solid black;
+}
+@media (min-width:560px) and (max-width: 1000px) {
+    .fotoBlog {
+      width: 200px;
+      height:128px;
+    }
+}
+
+.central a{
+    margin-top: 70px;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+}
+
+.central a:hover{
+    font-style: bold;
+    font-weight: 800;
+}
+
+#blogs h2{
+    border-bottom: 2px solid black;
+    margin-bottom:30px;
+}

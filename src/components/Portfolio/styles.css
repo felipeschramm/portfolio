@@ -1,0 +1,20 @@
+#portfolio{
+    width: 100%;
+    background: black;
+    text-align: center;
+    color: white;
+    padding: 30px 0px 70px 0px;
+}
+
+#portfolio h2{
+    padding-top:40px;
+}
+
+.branco{
+    color:white!important;
+    font-style: none;
+}
+
+.branco:hover{
+    font-weight: 800;
+}
